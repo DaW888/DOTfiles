@@ -1,0 +1,2749 @@
+ls
+dir
+ll
+e
+e.
+w.
+pwd
+cd
+desktop
+alias desk="cd C:\Users\Dawid\Desktop"
+cd C:
+clink
+alias
+cd C:\Drivers\
+alias desk="cd C:\Users\Dawid\Desktop\"
+cd C:\Users\Dawid\Desktop\
+alias desk=cd C:\Users\Dawid\Desktop\
+cd 
+cd /
+desk
+exit
+desk
+desk
+exit
+desk
+cd /
+cd D
+cd D:
+cd d:\
+cd d
+D
+DL
+D:
+C:
+ls
+C:
+cd bin
+ls
+cd d:\
+cd d
+D
+DL
+D:
+C:
+ls
+C:
+cd bin
+ls -l
+ls
+%user%
+%USERNAME%
+desk= cd C:\Users\%USERNAME%\Desktop\
+alias desk=cd C:\Users\%USERNAME%\Desktop\
+alias desk=cd C:\Users\%USERNAME%"\Desktop\
+alias desk=cd C:\Users\"%USERNAME%"\Desktop\
+cd /
+desk
+alias
+cd /
+desk
+C
+C:
+alias desk=cd C:\Users\"%USERNAME%"\Desktop\
+cd /
+desk
+C
+C:
+cd bin\
+cd /
+desk
+c:
+cp install.txt install1.txt
+alias
+rm install1.txt 
+ls
+python
+ls
+python
+cd .
+ cd /
+desk
+cd C
+C:
+mkdir dataBase_gitlab
+cd dataBase
+cd ..
+cd dataBase_gitlab\
+gt config --global user.name
+git config --global user.name "Dawid"
+git config --global user.name
+git clone https://gitlab.com/DaV888/base_python.git
+git clone https://gitlab.com/DaV888/base_python.git
+C:
+desk
+cd PyTricks\
+ls
+gitgit remote add origin https://gitlab.com/DaV888/pythontricks.git
+git remote add origin https://gitlab.com/DaV888/pythontricks.git
+git push -u origin master
+git push -u origin master
+desk
+C:
+cd PyTricks\
+git add .
+git status
+git commit -m "sort dict"
+git push origin master
+cd PyTricks\
+git add .
+git commit -m "sort dict"
+git push origin master
+C:
+desk
+cd aswa
+git init
+git add
+git add afw\
+ls
+git status
+desk
+C:
+git clone https://gitlab.com/DaV888/statki.git
+ls
+git status
+git clone https://gitlab.com/DaV888/statki.git
+cd C
+C:
+desk
+mkdir ess
+cd ess
+alias
+clone/
+clone
+clone
+clone
+desk
+C:
+cd ess\
+ls
+clone\statki.git
+clone\ statki.git
+clone
+clone/
+clone/statki.git
+ssh
+C:
+desk
+git@github.com:DaV888/slide.git
+git git@github.com:DaV888/slide.git
+git clone git@github.com:DaV888/slide.git
+git clonegit@gitlab.com:DaV888/slide.git
+git clone git@gitlab.com:DaV888/slide.git
+c:
+desk
+git clone https://gitlab.com/DaV888/vscode_cfg.git
+code
+c
+c:
+desk
+git git@gitlab.com:DaV888/vscode_cfg.git
+git clone git@gitlab.com:DaV888/vscode_cfg.git
+git git@gitlab.com:DaV888/vscode_cfg.git
+git clone git@gitlab.com:DaV888/vscode_cfg.git
+py
+py -m pip
+pi
+pip
+pip install python
+pip install python -U
+pip install pip
+py -v
+python --version
+python --version
+c:
+desk
+cd dar\DS
+ls
+git init
+git add .
+git commit -m "init"
+git remote add origin https://github.com/DaW888/ds.git
+git push -u origin master
+c:
+desk
+l
+git clone https://gitlab.com/DaV888/python_lekcje.git
+git push -u origin master
+l
+git clone https://gitlab.com/DaV888/python_lekcje.git
+desk
+C;
+C;c
+c
+c:
+cd python_lekcje\
+ls
+git add .
+git commit -m 'dodana kolejka.py'
+git commit -m 'dodana kolejka'
+git status
+git commit -m "dodana kolejka.py"
+git push
+git push
+ls
+cdesk
+c
+desk
+d
+e
+cdesk
+desk
+d
+e
+f
+fL
+f:
+c:
+c
+c:
+0
+c
+desk
+ls
+git
+chkdsk C:
+ckdsk H:
+chdsk H:
+chkdsk
+chkdsk H:
+chkdsk /f /R H:
+c
+desk
+cd kolejkka\
+git init
+git add .
+git status
+git commit -m "init"
+git remote add origin https://github.com/DaW888/kolejka_prezentacja.git
+git push -u origin master
+git push -u origin master
+c
+desk
+git clone https://gitlab.com/DaV888/vscode_cfg.git
+git clone https://gitlab.com/DaV888/VSCode_cfg.git
+git clone https://gitlab.com/DaV888/VSCode_cfg.git
+c
+desk
+cd kolejkka\
+git add
+git add .
+git status
+git commit -m dodano alg mati"
+git commit -m "dodano alg mati"
+git push
+c
+desk
+cd slide\
+git pull
+git pull
+vim
+l
+nano
+c
+desk
+ls
+git clone https://github.com/dracula/visual-studio
+git clone https://gitlab.com/DaV888/vscode_cfg.git
+git clone https://gitlab.com/DaV888/VSCode_cfg.git
+git clone https://gitlab.com/DaV888/VSCode_cfg.git
+c
+desk
+cd kolejkka\
+git add
+git add .
+git status
+git commit -m dodano alg mati"
+git commit -m "dodano alg mati"
+git push
+c
+desk
+cd slide\
+git pull
+git pull
+vim
+nano
+c
+desk
+git clone https://github.com/dracula/visual-studio
+nano rc
+nanonr
+nanorc
+include 
+nano -V
+l
+cd config\
+cd profile.d\
+ls -a
+cd vendor\
+ld
+tree
+cd conemu-maximus5\
+cd ConEmu\
+cat Portable.txt 
+clear
+cls
+find nano
+locate
+find
+locate -c nano
+cd bin
+ls
+cd ..
+apt-get
+locate nano
+locate *nano*
+clear
+cls
+find nano
+locate
+find
+locate -c nano
+cd bin
+cd ..
+apt-get
+locate nano
+locate *nano*
+c
+desk
+cd text\
+git init
+touch elo.txt
+git add .
+git config --global core.editor nano
+git config --global core.editor
+git commit
+git status
+git log
+ls 0a
+ls -a
+rm .
+rm *
+ls
+cmder -v
+cmder
+ls
+git commit
+ls
+nano
+subnl
+subl
+subnl
+subl
+cd config\
+ls
+nano user_aliases.cmd 
+graph
+grapj
+nano user_aliases.cmd 
+grapj
+c
+desk
+cd slide\
+ls
+graph
+alias graph
+graph
+alias graph
+c
+desk
+nano
+nano tak
+rm tak
+nano git.txt 
+ping 8.8.8.8
+c
+desk
+cd "Nowy folder\
+ls
+git clone https://gitlab.com/DaV888/slide.git
+nano
+ls
+git clone https://gitlab.com/DaV888/slide.git
+nano
+bash
+elos
+mc
+cmder -v
+cmder
+ls
+git commit
+ls
+nano
+subnl
+subl
+subnl
+subl
+cd config\
+ls
+nano user_aliases.cmd 
+graph
+grapj
+nano user_aliases.cmd 
+grapj
+c
+desk
+cd slide\
+ls
+graph
+alias graph
+graph
+alias graph
+c
+desk
+nano
+nano tak
+rm tak
+nano git.txt 
+ping 8.8.8.8
+desk
+cd "Nowy folder\
+ls
+git clone https://gitlab.com/DaV888/slide.git
+nano
+git clone https://gitlab.com/DaV888/slide.git
+nano
+bash
+elos
+mc
+cd vendor\
+cd conemu-maximus5\
+cat Portable.txt 
+cat Portable.txt | less
+cat Settings-ConEmu.reg 
+cat Settings-ConEmu.reg | less
+ll
+cd Addons\
+locate nano
+cd plugins\
+cd ConEmu\
+cd Background\
+cd lib\l
+cd lib\
+cat lib_base.cmd 
+cd c
+c
+cd Users\
+cd Dawid
+cd cmder_configg
+l
+ls 0a
+cd Dawi
+ls -a
+cd ..
+cd 'Default User'
+ls
+cd @
+ping 8.8.8.8
+ping google.com
+ping 49.249.24.12
+ping 8.8.8.8
+ping google.com
+ping 49.249.24.12
+ping 8.8.8.8
+nano -V
+nano 
+nano -h
+nano -Y 
+cd /
+c
+desk
+nano -Y js
+ls js
+js
+locate js
+find js
+ls
+ls -l
+rm a.js
+fira code
+fira code
+cd 
+cd /
+find -h
+find --help
+man find
+find
+find . -type -name "cs"
+locate
+man locate
+man
+locate -d . file
+ipconfig
+ipconfig
+terraria
+terrariaserver
+TerrariaServer
+TerrariaServer.exe
+E:\gry\SteamLibrary\steamapps\common\Terraria\start-server.bat 
+ip
+ipconfig
+ipconfig
+E:\gry\SteamLibrary\steamapps\common\Terraria\start-server.bat 
+ip
+ipconfig
+ipconfig
+ping 83.4.123.124
+ping dawid888.ddns.net:7777
+ping dawid888.ddns.net
+ping 8.8.8.8
+ping dawid888.ddns.net
+ping 83.4.123.124:7777
+ping 185.124.116.116
+ping 8.8.8.8
+ping 185.124.116.116
+ipconfig
+ping 8.8.8.8
+choice /?
+ping 185.124.116.116
+ping 8.8.8.8
+ping 185.124.116.116
+ipconfig
+ping 8.8.8.8
+choice /?
+chrome
+find chrome.exe
+c
+cd "Program Files (x86)\
+cd Google\
+l
+cd C
+cd Chrome\
+cd Application\
+ls
+chrome.exe
+chrome.exe --help
+chrome.exe --privete
+chrome.exe --privete-mode
+chrome.exe /?
+chrome.exe
+chrome.exe --help
+chrome.exe --privete
+chrome.exe --privete-mode
+chrome.exe /?
+c
+firefox
+cd "Program Files
+cd "Mozilla Firefox\
+ls
+firefox.exe 
+firefox.exe -ProfileManager
+firefox.exe --devtools
+firefox.exe -devtools
+firefox.exe -safe-mode
+firefox.exe --safe-mode
+chrome.exe /?
+firefox
+firefox.exe 
+firefox.exe -ProfileManager
+firefox.exe --devtools
+firefox.exe -devtools
+firefox.exe --safe-mode
+c
+cd "Program Files
+cd "Mozilla Firefox\
+l
+firefox.exe
+firefox.exe -save-mode
+firefox.exe -safe-mode
+ls
+firefox.exe -safe-mode
+c
+desk
+ls
+rm statki
+rm -rf statki
+git clone https://gitlab.com/DaV888/statki.git
+git clone https://gitlab.com/DaV888/statki.git
+ping google.com
+route
+route google.com
+trace
+tracer
+tracert
+tracert google.com
+git clone https://gitlab.com/DaV888/statki.git
+git clone https://gitlab.com/DaV888/statki.git
+ping google.com
+route
+route google.com
+trace
+tracer
+tracert google.com
+traceroute
+tracet
+cd config\
+ls
+traceret
+tracert
+nano user_aliases.cmd
+track
+alias
+alias
+track
+track google.com
+track 
+track 8.8.8.8
+tracert 
+tracert google.com
+tracert google.com -w 200
+tracert -w 200 google.com
+tracert 
+tracert google.com
+tracert google.com -w 200
+tracert -w 200 google.com
+c
+cd C:\Users\Dawid\AppData\Roaming
+ls
+find ghos
+find ghosy
+find ghost
+locate
+locate --name "ghost"
+locate -name "ghost"
+find
+find man
+man find
+find /?
+locate ?/
+locate /?
+locate -name "ghost"
+find
+find man
+man find
+find /?
+locate ?/
+locate /?
+antigen
+zhen
+zgen
+cd ~
+c
+cd Users\Dawid\
+w
+ls -a | less
+ls
+ll
+ls -l | less
+w
+ls -a | less
+ll
+ls -l
+ls -l | less
+c
+cd Users\Dawid
+ls -l | more
+ls -la | more
+cat .bash_history 
+ls
+exit
+ls -la | more
+cat .bash_history 
+exit
+vi
+c
+desk
+touch a.js
+vim a.js 
+vim
+nano -v
+nano --version
+nano ?/
+nano /?
+nano -h
+nano
+nano a
+nano a.js
+rm a.js
+ls
+nano a
+nano a b
+svgo
+svgo
+c
+de
+desk
+cd slide
+ls
+git clean
+git clean -idf
+git clean -nd
+git status
+git checkout slide.html 
+c
+desk
+cd slide
+cd ..
+cp slide slide1
+cp -r slide slide1
+c
+desk
+cd slide1
+ls
+node
+eslint -h
+eslint -c
+eslint -c .eslintrc.json 
+nvim
+"%CMDER_ROOT%\\Cmder.exe\"
+CMDER_ROOT%\\Cmder.exe\
+%CMDER_ROOT%\\Cmder.exe\
+%CMDER_ROOT%\\Cmder.exe
+CMDER_ROOT%\\Cmder.exe\
+%CMDER_ROOT%\\Cmder.exe\
+%CMDER_ROOT%\\Cmder.exe
+git init
+ls -a
+cd .vs
+cd ..
+ls
+ls -la
+git add .
+git commit
+git log
+git remote add origin https://github.com/DaW888/ComputerConfig.git
+git push -u origin master
+git checkout
+git status
+git clean
+git clean -if
+git status
+git log
+git remote add origin https://github.com/DaW888/ComputerConfig.git
+git push -u origin master
+git checkout
+git status
+git reset
+git clearn
+git clean
+git reset -y
+git reset -h
+git reset --hard
+git clean -h
+git clean .
+git clean 
+git clean -if
+git status
+git log
+cd ..
+ls
+rm -r ComputerConfig\
+rm -rf ComputerConfig\
+vim
+nano -v
+nano --version
+nano ?/
+nano /?
+nano -h
+nano
+nano a
+nano a.js
+rm a.js
+ls
+nano a
+nano a b
+svgo
+svgo
+c
+de
+desk
+cd slide
+ls
+git clean
+git clean -idf
+git clean -nd
+git status
+git checkout slide.html 
+c
+desk
+cd slide
+cd ..
+cp slide slide1
+cp -r slide slide1
+c
+desk
+cd slide1
+ls
+node
+eslint -h
+eslint -c
+eslint -c .eslintrc.json 
+nvim
+"%CMDER_ROOT%\\Cmder.exe\"
+CMDER_ROOT%\\Cmder.exe\
+%CMDER_ROOT%\\Cmder.exe\
+%CMDER_ROOT%\\Cmder.exe
+CMDER_ROOT%\\Cmder.exe\
+%CMDER_ROOT%\\Cmder.exe\
+%CMDER_ROOT%\\Cmder.exe
+ls -a
+cd .vs
+cd ..
+ls
+ls -la
+git log
+git remote add origin https://github.com/DaW888/ComputerConfig.git
+git push -u origin master
+git checkout
+git status
+git clean
+git clean -if
+git status
+git log
+git remote add origin https://github.com/DaW888/ComputerConfig.git
+git checkout
+git status
+git reset
+git clearn
+git clean
+git reset -y
+git reset -h
+git reset --hard
+git clean -h
+git clean .
+git clean 
+git clean -if
+cd ..
+rm -r ComputerConfig\
+rm -rf ComputerConfig\
+git init
+touch .gitignore
+l
+cat .gitignore 
+git commit -m 'init'
+git push 
+git remote
+git origin
+git remote origin
+git remote remove
+git remote remove origin 
+git remote add origin https://github.com/DaW888/testowe.git
+git pull --rebase
+git push origin master
+git commit -m "init"
+git add README.md
+echo "# android cw1" >> README.md
+cat README.md 
+nano README.md 
+git log
+git pusjh
+git push -u origin master
+git sttus
+git rm -r --cached .
+git add.
+git add .
+git status
+git commit -m
+git commit
+git push
+ls
+nano .gitignore 
+touch README.md
+nano README.md
+nano README.md 
+ls
+ls -la
+git log
+git remote add origin https://github.com/DaW888/ComputerConfig.git
+git push -u origin master
+git checkout
+git status
+git clean
+git clean -if
+git status
+git log
+git remote add origin https://github.com/DaW888/ComputerConfig.git
+git checkout
+git status
+git reset
+git clearn
+git reset -y
+git reset -h
+git reset --hard
+git clean -h
+git clean .
+git clean 
+rm -r ComputerConfig\
+rm -rf ComputerConfig\
+touch .gitignore
+l
+cat .gitignore 
+git commit -m 'init'
+git push 
+git remote
+git origin
+git remote origin
+git remote remove
+git remote remove origin 
+git remote add origin https://github.com/DaW888/testowe.git
+git pull --rebase
+git push origin master
+git add README.md
+echo "# android cw1" >> README.md
+cat README.md 
+nano README.md 
+git pusjh
+git sttus
+git add.
+git commit -m
+git commit
+git push
+git init
+cd app\
+cd src\
+git log
+git rm --cached
+git rm --cached 
+git clean
+git clean -i
+git clean -if
+git rm --cached .
+git rm -r --cached .
+cd app\src\main\
+cd ..
+nano .gitignore 
+ls
+git add .
+git status
+git commit -m "init"
+git remote add origin https://github.com/DaW888/AndroidCw1.git
+git push -u origin master
+ls
+git status
+git add .
+git commit
+git push
+git init
+git add .
+ls
+git status
+git commit
+git remote add origin https://github.com/DaW888/ds-jquery.git
+git push -u origin master
+git init
+git add .
+git status
+git commit
+git remote add origin https://github.com/DaW888/ds-express.git
+git push -u origin master
+cd src\
+git log
+git rm --cached
+git rm --cached 
+cd app\src\main\
+ls
+git add .
+git status
+git remote add origin https://github.com/DaW888/AndroidCw1.git
+git push -u origin master
+ls
+git status
+git add .
+git commit
+git push
+git init
+git add .
+git status
+git commit
+git remote add origin https://github.com/DaW888/ds-jquery.git
+git push -u origin master
+git remote add origin https://github.com/DaW888/ds-express.git
+git status | less
+git clean
+git clean -i
+git clean -if
+git clear
+git clear .
+git clean .
+git status | more
+git rm --cached .
+cd l01\
+cd .
+ls
+git rm -r --cached
+git rm -r --cached .
+git commit
+git remote add origin https://github.com/DaW888/ds-node-server.git
+cd ..
+cd webGL\
+git init
+touch .gitignore
+nano .gitignore 
+git add .
+git status
+git commit -m "init"
+git remote add https://github.com/DaW888/ds-webgl.git
+git remote add origin https://github.com/DaW888/ds-webgl.git
+git -u push origin master
+git push -u origin master
+git clone https://gitlab.com/DaV888/vscode_cfg
+git clone https://github.com/DaW888/ds-webgl.git
+git push -u origin master
+git clone https://gitlab.com/DaV888/vscode_cfg
+git clone https://github.com/DaW888/ds-webgl.git
+git add .
+ls
+git status
+git commit
+git push
+git add .
+git status
+git commit
+git push
+git config -edit
+git config --edit
+git
+pip
+cd c
+c
+desk
+mkdir asd
+cd asd
+pip install noipy
+ls
+noip
+pip install noipy
+noip
+noip -u
+c
+desk
+cd as
+cd asd
+ls
+ls -a
+cd .
+cd ..
+rmdir asd\
+cd as
+cd asd
+ls -a
+cd .
+rmdir asd\
+git clone https://github.com/pv8/noipy.git
+noip
+cd noipy\
+nano dnsupdater.py 
+ls
+noipy -u <your username> -p <your password> -n <your hostname on DDNS provider>         --provider {generic|noip|dyn|duck}
+cd ..
+noipy -u username -p pass -n hostname --provider noip
+ls
+touch .gitconfig
+git status 
+git add .
+git status
+git commit -m "l02_ajax po lekcji"
+git push
+noipy -u username -p pass -n hostname --provider noip
+git clone https://github.com/DaW888/ComputerConfig.git
+cd ComputerConfig\
+git add .
+git status
+git commit -m "NoIp Renewer script added"
+git push
+cd ..
+git config --system --edit
+git config --global --edit
+git config --global core.editor 
+ls
+ls -l
+ls -la
+ls
+ls -a
+ls -a
+git add .
+git status
+git commit -m "tryb portrait i land"
+git push
+git config --global --edit
+git config --global core.editor 
+ls
+ls -l
+ls -la
+ls -a
+ls -a
+git commit -m "tryb portrait i land"
+git branch cw2
+git stash branch cw2
+git stash
+git stash --log
+git stash status
+git status stash
+git stash pop
+git add /
+git add .
+git commit -m "button zmiany jezyka"
+git push
+git branch master
+git stauts
+git status
+ls
+git checkout master 
+git checkout cw2
+git push -u cw2 cw2
+git push -u origin cw2
+git push -u origin cw2
+git checkout .
+git status
+git clone https://gitlab.com/DaV888/dratewka
+cd dratewka\
+ls
+git log
+cat dratewka.js 
+nano dratewka.js
+git pull
+git pull
+rm -r android-l02\
+cd ..
+git clone https://github.com/DaW888/android-l02
+git clone https://github.com/DaW888/android-l02
+rm -r android-l02\
+git clone https://github.com/DaW888/android-l02
+git clone https://github.com/DaW888/android-l02
+cd f
+cd ..
+ls
+ls -l | grep f
+rm -r f
+rm -h
+rm --help
+rm -rf f
+yarn
+rm -rf f
+c
+desk
+yarn
+yarn
+rm -rf f
+c
+desk
+yarn
+cd dratewka\
+npm init
+ls
+eslint --init
+c
+desk
+dratewka\
+cd dratewka\
+mv .eslintrc.json .eslintrcas.json
+eslint --init
+ping 8.8.8.8
+ping 8.8.8.8
+echo elo
+slepp
+sleep
+sleep --help
+sleep 10s
+timeout
+timeout 5
+timeout 5 > null
+ping 8.8.8.8
+git clone https://github.com/DaW888/ds-node-server
+sleep --help
+sleep 10s
+timeout
+timeout 5
+timeout 5 > null
+ping 8.8.8.8
+git clone https://github.com/DaW888/ds-node-server
+c
+desk
+cd ds-node-server\
+cd l02_ajax\
+nodemon
+npm i -g nodemon
+nodemon server02
+nodemon --help
+nodemon server03
+nodemon server04
+git add .
+l
+ls
+git status
+git commit
+git push
+c
+desk
+cd ds-node-server\
+cd l02_ajax\
+ls
+nodemon server05
+git add .
+git status
+git commit
+git push
+git push
+c
+desk
+cd ds-node-server\
+ls
+cdl
+cd l
+cd l02
+cd l02_ajax\
+nodemon server5
+cd zad1
+nodemon server05.js 
+cd ..
+nodemon server05
+nodemon server06
+c
+desk
+ls
+cd ds-node-server\
+git pull
+nodemon server06
+git pull
+c
+desk
+cd ds-node-server\
+cd l0
+cd l03
+cd l03_mp3player\
+ls
+git checkout server.js 
+cd l0
+cd l03
+cd l03_mp3player\
+git checkout server.js 
+c
+desk
+git clone https://github.com/DaW888/ds-webgl
+cd ds-webgl\
+code
+cd ..
+code ds-webgl\
+git clone https://gitlab.com/DaV888/vscode_csg
+git clone https://gitlab.com/DaV888/vscode_cfg
+cd vscode_
+cd vscode_cfg\
+git add .
+git status
+ls
+git commit -m 
+git commit
+git push
+git push
+git status
+cd "Nowy folder\
+git clone https://github.com/DaW888/android-l02
+git commit -m 
+git push
+git
+git add .
+git log
+git status
+git commit
+git push
+git clone https://github.com/DaW888/ds-webgl
+git clone https://github.com/DaW888/ds-webgl
+git status
+git add .
+git commit -m "skonczone l02"
+git log
+git pus
+git push
+git push
+git clone https://github.com/DaW888/ds-node-server
+cd ds-node-server\
+cd l03_mp3player\
+ls
+nodemon server.js 
+nodemon server.js 
+git status
+git add .
+git commit 
+git log
+git pusj
+git push
+ipconfig
+git push
+git clone https://github.com/DaW888/ds-node-server
+nodemon server.js 
+git commit 
+git log
+git pusj
+ipconfig
+cd ds-node-server\
+cd l03_mp3player\
+ls
+rs
+nodemon server.js 
+cd .
+cd ..
+git status
+git add .
+git commit -m "ukonczony pierwszy etap l03_mp3player"
+git push
+git push
+mkdir ssolinux
+cd ssolinux
+git init
+git add .
+git status
+git commit -m "init"
+git remote add origin https://github.com/DaW888/ssolinux.git
+git push -u origin
+git push -u origin master
+nano README.md 
+c
+desk
+cd ds-node-server\
+ls
+cd l03_mp3player\
+node server.js 
+nodemon server.js 
+git checkout static\style.css 
+git status
+nodemon server.js 
+git checkout static\style.css 
+git status
+nodemon server.js 
+git checkout static\style.css 
+git status
+c
+desk
+cd ds-node-server\
+cd l03
+cd l03_mp3player\
+node server.js 
+git clone https://gitlab.com/DaV888/dratewka
+c
+desk
+cd "lekcja-03 MP3PLAYER CZ.1\
+ls
+node server.js 
+c
+desk
+cd ds-node-server\
+cd l03_mp3player\
+node server.js 
+node server.js 
+git add .
+git status
+git commit -m "ukonczone l03 pozycjonowanie swiatla"
+git push
+git commit -m "ukonczone l03 pozycjonowanie swiatla"
+git
+git add .
+git status
+git commit
+git push
+touch ds
+cd ds-
+cd ds
+rm ds
+touch fold
+rm fold
+mkdir fold
+cd fold\
+git clone https://github.com/DaW888/ds-webgl
+mkdir fold
+cd fold\
+git clone https://github.com/DaW888/ds-webgl
+git checkout origin
+git checkout master
+ls
+git status
+git pull
+git clone https://github.com/DaW888/androidcw1
+git clone https://github.com/DaW888/androidcw1
+git status
+git branches
+git branch
+git branch
+git add .
+git status
+git commit -m "ukończono l03 tworzenie folderów"
+git push
+git pull
+git pull
+c
+ls
+cd /
+desk
+git clone https://github.com/DaW888/ds-hex
+git pull
+git pull
+git add .
+git status
+git commit -m "rozpoczecie tworzneia alertu z nazwami folderow"
+git push
+git push
+python -m pip install --upgrade pip
+pip install noipy
+git push
+noip -u daw888 -p DawidWajda8*8 -n dawid888.ddns.net --provider noip
+noipy -u daw888 -p DawidWajda8*8 -n dawid888 --provider noip
+noipy -u daw888 -p DawidWajda8*8 -n dawid888.ddns.net --provider noip
+git pull
+noipy -u daw888 -p DawidWajda8*8 -n dawid888.ddns.net --provider noip
+git pull
+cd ProjektyAndroid\
+cd cw1
+ls
+git status
+git diff
+ping 8.8.8.8
+git diff
+ping 8.8.8.8
+cd config\
+ls
+nano settings 
+nano user_profile.cmd
+nano user_profile.ps1
+nano Readme.md 
+e.
+nano user_aliases.cmd 
+gg
+nano user_profile.cmd
+nano user_profile.ps1
+nano Readme.md 
+e.
+nano user_aliases.cmd 
+ga
+gc
+d
+cd /
+cd ProjektyAndroid\
+cd cw1
+ls
+gg
+graph
+gg
+graph
+e
+d
+cd config\
+e.
+c
+desk
+cd ds-node-server\
+ls
+cd l03
+cd l03_mp3player\
+node server.js 
+cd l03_mp3player\
+node server.js 
+d
+cd ..
+cd Peo
+cd ProjektyAndroid
+ls
+cd cw1
+git status
+git add .
+git commit -m "stworzone kliki w menagerze obrazkow"
+git push
+ping 8.8.8.8
+python
+python
+cd config\
+ls
+nano user_aliases.cmd 
+autostart
+autostart
+cd config\
+nano user_aliases.cmd 
+git add .
+git commit -m "stworzone kliki w menagerze obrazkow"
+git push
+ping 8.8.8.8
+python
+python
+cd config\
+nano user_aliases.cmd 
+autostart
+cd config\
+nano user_aliases.cmd 
+cd /
+d
+c
+autostart
+ls
+nano bot.py 
+python bot.py 
+c
+autostart
+e.
+nano bot.py 
+python bot.py 
+autostart
+e
+c
+e.
+e.
+c
+desk
+cd ds-node-server\
+cd l03_mp3player\
+cd static\
+l
+ls
+nano visual.js 
+ipconfig
+l
+nano visual.js 
+c
+desk
+cd ds-node-server\
+cd l03_mp3player\
+ls
+node server.js 
+git init
+git add .
+git status
+git commit -m "init"
+git remote add origin https://github.com/DaW888/mendela-the30.git
+git push -u origin master
+git clone https://github.com/Paulowarren31/Supreme-Bot.git
+pip3 install bs4
+curl
+git clone
+git pull
+git clone https://github.com/DaW888/tcpServer
+git clone https://github.com/DaW888/tcpServer
+autostart
+ls
+cat NoIpRenew.bat 
+ping dawid888.ddns.net
+c
+desk
+git clone https://github.com/Sendi70/mess_client
+ipconfig
+ipconfig
+ping dawid888.ddns.net
+git clone https://github.com/DaW888/Checkers
+chrome
+start chrome
+start chrome google.com
+start chrome --disable-extensions
+chrome --disable-extensions
+start chrome -disable-extensions
+start chrome -incognito
+serve .
+serve .
+git init
+git add .
+git commit
+git status
+gs
+gg
+gp
+git remote add origin https://github.com/DaW888/canvasCw.git
+git push -u origin master
+j
+start chrome --disable-extensions
+chrome --disable-extensions
+start chrome -disable-extensions
+start chrome -incognito
+serve .
+serve .
+git init
+git add .
+git commit
+git status
+gs
+gg
+gp
+git remote add origin https://github.com/DaW888/canvasCw.git
+git push -u origin master
+j
+c
+c:
+cd /
+cd Users\D
+cd Users\Dawid
+cd .ssh\
+sublime
+sublime .
+code 
+code .
+ssh-add
+ssh-add ~\.ssh\id_rsa_ddwajda.pub 
+ssh-add ~\.ssh\id_rsa_ddwajda
+ssh-add id_rsa_ddwajda.pub 
+nano config
+rm id_rsa_ddwajda
+rm id_rsa_ddwajda.pub 
+cat known_hosts 
+ssh-keygen -t rsa -C "ddwajda@gmail.com"
+eval `ssh-agent -s`
+ssh-agent
+ssh-agent -s
+ssh-add id_rsa_ddwajda
+eval $(ssh-agent)
+cat config 
+git remote add origin git@github-ddwajda:ddwajda/slide.git
+ls
+nano config 
+cd ..
+nano .gitconfig
+node server.js 
+git init
+git add .
+git status
+git commit -m "init"
+git remote add origin https://github.com/DaW888/mendela-the30.git
+git push -u origin master
+git clone https://github.com/Paulowarren31/Supreme-Bot.git
+pip3 install bs4
+curl
+git clone
+git clone https://github.com/DaW888/tcpServer
+git clone https://github.com/DaW888/tcpServer
+autostart
+cat NoIpRenew.bat 
+ping dawid888.ddns.net
+c
+desk
+git clone https://github.com/Sendi70/mess_client
+ipconfig
+ipconfig
+ping dawid888.ddns.net
+git clone https://github.com/DaW888/Checkers
+chrome
+start chrome
+start chrome google.com
+start chrome --disable-extensions
+chrome --disable-extensions
+start chrome -disable-extensions
+start chrome -incognito
+serve .
+serve .
+git init
+git add .
+git commit
+gs
+gp
+git remote add origin https://github.com/DaW888/canvasCw.git
+j
+git pull
+git info
+git remote
+git remote -b
+git remote rename
+git remove origin
+git remote add origin https://github.com/DaW888/slide.git
+git config core.sharedRepository
+ssh-keygen -t rsa -C "ddwajda@gmail.com"
+git status
+git statsu
+ld
+gg
+git remote remove origin
+ssh -T
+ssh -T ddwajda@github.com
+ssh -T git@github.com
+git remote status
+git remote -v
+git remote add origin https://github.com/ddwajda/slide.git
+git remote add origin git@github.com:ddwajda/slide.git
+git remote remove
+git remote remove origin 
+git remote add origin git@github-ddwajda:ddwajda/slide.git
+git push -u origin master
+ls
+nano 
+ls
+git pull
+code .
+git commit
+git add
+ga
+gg
+git commit -amend
+git commit --amend
+git push --force
+python -m pip install -U mathplotlib
+python -m pip install -U matplotlib
+d
+cd /
+cd ProjektyAndroid\cw1
+ls
+git pull
+cat window.py 
+python -m pip install -U matplotlib
+d
+cd ProjektyAndroid\cw1
+git pull
+cat window.py 
+c/
+cd /
+cd ProjektyAndroid\
+cd cw1
+ls
+git status
+git add /
+git add .
+gg
+git commit
+git push
+code --list-extensions
+code --list-extensions | xargs -L 1 echo code --install-extension
+desk
+c
+code --list-extensions | xargs -L 1 echo code --install-extension > exts.txt
+gg
+node server.js 
+code --list-extensions | xargs -L 1 echo code --install-extension
+code --list-extensions | xargs -L 1 echo code --install-extension > exts.txt
+node server.js 
+c
+desk
+cd Checkers\
+nano server.js 
+cd static\
+ls
+nano Game.js 
+gg
+nano index.html 
+nano skrypt.js 
+nano launch.json 
+start
+c
+autostart
+e.
+c
+autostart
+e.
+ls
+git pull
+code .
+git pull
+code .
+node server.js 
+ng
+code .
+git pull
+node server.js 
+ng
+vim
+c
+desk
+cd VIMTut
+mkdir vimTut
+cd vimTut\
+vim index.js
+cd NOTATKI_MD\
+code .
+cd ..
+ls
+ipconfig
+ping dawid888.ddns.pl
+ping dawid888.ddns.net
+git pull
+ping dawid888.ddns.net
+git checkout .
+git pull
+cd vimTut\
+vim index.js
+cd NOTATKI_MD\
+code .
+ipconfig
+ping dawid888.ddns.pl
+ping dawid888.ddns.net
+git pull
+ping dawid888.ddns.net
+git checkout .
+git pull
+ls -l
+cd ChatServer\
+ls -
+cd ..
+ls
+ls -a
+git init
+nano .gitingnore
+nano .git
+nano .gitingnore 
+rm .gitingnore 
+nano .gitignore
+git add .
+git status
+git commit -m "create App Style"
+git remote add origin https://github.com/DaW888.chat-server-cs.git
+git remote remove origin 
+git remote add origin https://github.com/DaW888/chat-server-cs.git
+git push -u origin master
+git add .
+gg
+git commit -m "starting server, no Errors"
+git puhs
+git push
+git push
+git checkout .
+git pull
+git lo
+git log
+git status
+git add .
+git commit -m "sending message to all clients, can not remove users yet"
+git push
+git commit -m "sending message to all clients, can not remove users yet"
+d
+cd /
+cd ProjektyAndroid\
+cd cw1
+ls
+git status
+git add .
+git commit
+git push
+git clone https://github.com/sendi70/chat-client.git
+ipconfig
+git status
+git log 
+git add .
+git commit
+git push
+git status
+gs
+gg
+gl
+git -a commit
+git add .
+git commit
+git push
+git -a commit
+git log
+gig
+git add .
+gg
+git commit
+git push
+git push
+git checkout .
+git pull
+git lo
+git log
+git push
+git push
+git checkout .
+git pull
+git lo
+git log
+gg
+git stage
+git stash
+cd ..
+ls
+ls -a
+rm .vs\
+rm -fr .vs\
+git checkout .
+git log
+git status
+git add .
+git commit
+git push
+git status
+git add .
+git commit
+git push
+git clone https://github.com/DaW888/track-activity
+git clone https://github.com/DaW888/track-activity
+cd /
+cd ProjektyAndroid\
+cd track-activity\
+ls
+git pull
+git clone https://github.com/DaW888/track-activity
+git clone https://github.com/DaW888/track-activity
+cd /
+cd ProjektyAndroid\
+cd track-activity\
+git log
+git checkout ./
+git checkout .
+rm .idea\vcs.xml 
+ls
+git status
+git pul
+git pull
+git log
+git checkout ./
+git checkout .
+rm .idea\vcs.xml 
+git pul
+git pull
+cd /
+cd ProjektyAndroid\
+cd track-activity\
+nano misc.xml 
+git status
+cd ..
+nano .gitignore 
+cd .idea\
+ls
+git clone https://github.com/DaW888/track-activity
+git status
+git log
+cd "slide
+git remote
+git remote origin
+git remote list
+git remote 
+git remote -v
+nano misc.xml 
+git status
+nano .gitignore 
+cd .idea\
+git clone https://github.com/DaW888/track-activity
+git log
+git clone git@github.com:ddwajda/slide
+cd slide\
+git status
+git pll
+git pul
+git pull
+ls
+cd ..
+cd "slide - Kopia\
+git remote add origin git@github.com:DaW888/slide
+git remote -vb
+git remote -v
+git remote add origin git@github.com:DaW888/slide.git
+git remote remove origin 
+gg
+git remote add origin https://github.com/DaW888/slide.git
+git push -u origin master
+git remote add origin git@github.com:DaW888/slide.git
+git remote remove origin 
+gg
+git remote add origin https://github.com/DaW888/slide.git
+git push -u origin master
+e
+cd "Programy\
+cd VirtualB
+cd VirtualBox\
+cd maszyny
+ls
+cd ..
+VBoxManage.exe modifyvm "mac Mojave 10.14" --cpuidset 00000001 000306a9 04100800 7fbae3ff bfebfbff
+VBoxManage setextradata "mac Mojave 10.14" "VBoxInternal/Devices/efi/0/Config/DmiSystemProduct" "MacBookPro11,3"
+VBoxManage setextradata "mac Mojave 10.14" "VBoxInternal/Devices/efi/0/Config/DmiSystemVersion" "1.0"
+VBoxManage setextradata "mac Mojave 10.14" "VBoxInternal/Devices/efi/0/Config/DmiBoardProduct" "Iloveapple"
+VBoxManage setextradata "mac Mojave 10.14" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc"
+VBoxManage setextradata "mac Mojave 10.14" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1
+VBoxManage setextradata "mac Mojave 10.14" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc"
+VBoxManage setextradata "mac Mojave 10.14" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1
+git pul
+git checkout .
+gg
+git pull
+git pull
+git checkout .
+git status
+git status
+git add .
+git commit
+git push
+git pull
+git pull
+git checkout .
+git status
+git status
+gg
+git add .
+git commit
+git push
+git push
+desktop
+desk
+c
+cd zuze
+cd zuzel\
+ls
+l
+gl
+git status
+git pull
+gg
+l
+git status
+git pull
+gg
+gl
+git diff
+git diff Client\mainWindow.cs 
+git log
+git status
+gl
+git diff
+git diff Client\mainWindow.cs 
+git log
+git status
+cd chat-client-master\
+ls
+gg
+gl
+git status
+gl
+git diff
+git diff Client\mainWindow.cs 
+git log
+cd chat-client-master\
+ls
+git init .
+gl
+nano .gitignore
+git status
+gg
+git add .
+git commit -m "init"
+git remote add origin https://github.com/DaW888/chat-client-cs.git
+git push -u origin master
+npm start
+git status
+git add .
+git commit
+git push
+gg
+gl
+q
+q
+gg
+gl
+git log
+git push
+git add .
+gg
+git push
+git push
+git add .
+git push
+git checkout .
+cd ..
+cd "ChatServer - Kopia\
+gg
+git pull
+gl
+git clone https://github.com/DaW888/trackActivity
+git clone https://github.com/DaW888/track-activity
+git status
+git add .
+gg
+git commit -m "wysylanie danych, tworzenie drugiej armaty bez ruchu"
+git push
+gg
+git clone https://github.com/DaW888/mongodb
+mongo
+mongodb
+git clone https://github.com/DaW888/track-activity
+git status
+git add .
+gg
+git commit -m "wysylanie danych, tworzenie drugiej armaty bez ruchu"
+git push
+gg
+git clone https://github.com/DaW888/mongodb
+mongo
+mongodb
+mongod --help
+mongod --path
+mongod --dbpath
+mongod
+mongod --dbpath D:\Programy\MongoDB\DataBase
+git clone https://github.com/DaW888/mongodb
+mongo
+mongodb
+mongod
+mongodb
+mongod --help
+mongod --path
+mongod --dbpath
+mongod
+mongod --dbpath D:\Programy\MongoDB\DataBase
+git clone https://github.com/DaW888/mongodb
+mongo
+cd MongoDB\bin\
+ls
+mongod
+cd ..
+mongodb
+git clone https://github.com/DaW888/mongodb
+cd MongoDB\bin\
+ls
+cd ..
+mongo
+mongodb
+mongod
+mongo
+mongod
+mongod
+mongod
+mongo
+mongod
+mongod
+git pul
+git pull
+cd //
+cd ..
+mongod
+mongod
+mongod
+git add .
+gg
+git commit -m "add parse"
+git push
+git push
+git clone https://github.com/DaW888/monopolyjs
+cd monopolyjs\
+git lo
+git log
+gg
+gl
+mongod
+gg
+git pull
+d
+mongod
+git pull
+node server.js 
+git push
+git push
+git clone https://github.com/DaW888/monopolyjs
+cd monopolyjs\
+git lo
+git log
+gg
+gl
+mongod
+gg
+git pull
+d
+git pull
+node server.js 
+rs
+mongod
+mongod
+node server.js 
+rs
+mongod
+d
+mongod
+mongod
+gg
+git pull
+new
+terminal
+cmder
+node server.js 
+node server.js 
+mongod
+mongod
+mongod
+mongod
+mongod
+gg
+mongod
+mongod
+mongod
+arp -a
+netstat
+pip install pandas
+python -m pip install --upgrade pip
+ls
+ls -a
+ls
+rm -r "Need.for.Speed.Most.Wanted(2012) - RELOADED\
+gg
+git status
+git checkout .
+gg
+nano .idea\codeStyles\Project.xml 
+cd ..
+git clone https://github.com/DaW888/track-activity
+gg
+git status
+gl
+gl
+python
+nano updated.json 
+python
+import timedate
+python
+rm -r CCC\
+rm -rf CCC\
+rm -rf Programy\
+python
+code --list-extensions | % { "code --install-extension $_" }
+code --list-extensions | xargs -L 1 echo code --install-extension
+code --list-extensions | xargs -L 1 echo code --install-extension
+ipconfig
+code
+code --list-extensions | xargs -L 1 echo code --install-extension
+code --list-extensions | xargs -L 1 echo code --install-extension
+code --install-extension aaron-bond.better-comments code --install-extension abusaidm.html-snippets code --install-extension acarreiro.calculate code --install-extension alefragnani.project-manager code --install-extension almenon.arepl code --install-extension brapifra.phpserver code --install-extension ChakrounAnas.turbo-console-log code --install-extension chenxsan.vscode-standardjs code --install-extension christian-kohler.npm-intellisense code --install-extension christian-kohler.path-intellisense code --install-extension CoenraadS.bracket-pair-colorizer code --install-extension cstrap.python-snippets code --install-extension DavidAnson.vscode-markdownlint code --install-extension dbaeumer.vscode-eslint code --install-extension dongli.python-preview code --install-extension dracula-theme.theme-dracula code --install-extension eamodio.gitlens code --install-extension EditorConfig.EditorConfig code --install-extension esbenp.prettier-vscode code --install-extension felixfbecker.php-debug code --install-extension felixfbecker.php-intellisense code --install-extension formulahendry.auto-rename-tag code --install-extension formulahendry.code-runner code --install-extension humy2833.ftp-simple code --install-extension kisstkondoros.vscode-gutter-preview code --install-extension mkaufman.HTMLHint code --install-extension ms-python.anaconda-extension-pack code --install-extension ms-python.python code --install-extension ms-vscode.vscode-typescript-tslint-plugin code --install-extension msjsdiag.debugger-for-chrome code --install-extension PKief.material-icon-theme code --install-extension pranaygp.vscode-css-peek code --install-extension redhat.vscode-yaml code --install-extension ritwickdey.LiveServer code --install-extension sburg.vscode-javascript-booster code --install-extension Shan.code-settings-sync code --install-extension shardulm94.trailing-spaces code --install-extension sleistner.vscode-fileutils code --install-extension steoates.autoimport code --install-extension techer.open-in-browser code --install-extension tomoki1207.vscode-input-sequence code --install-extension viablelab.bracket-padder code --install-extension vincaslt.highlight-matching-tag code --install-extension vladmrnv.expresssnippet code --install-extension WakaTime.vscode-wakatime code --install-extension wmaurer.vscode-jumpy code --install-extension xabikos.JavaScriptSnippets code --install-extension yzhang.markdown-all-in-one code --install-extension Zignd.html-css-class-completion
+code --install-extension aaron-bond.better-comments code --install-extension abusaidm.html-snippets code --install-extension acarreiro.calculate code --install-extension alefragnani.project-manager code --install-extension almenon.arepl code --install-extension brapifra.phpserver code --install-extension ChakrounAnas.turbo-console-log code --install-extension chenxsan.vscode-standardjs code --install-extension christian-kohler.npm-intellisense code --install-extension christian-kohler.path-intellisense code --install-extension CoenraadS.bracket-pair-colorizer code --install-extension cstrap.python-snippets code --install-extension DavidAnson.vscode-markdownlint code --install-extension dbaeumer.vscode-eslint code --install-extension dongli.python-preview code --install-extension dracula-theme.theme-dracula code --install-extension eamodio.gitlens code --install-extension EditorConfig.EditorConfig code --install-extension esbenp.prettier-vscode code --install-extension felixfbecker.php-debu
+code --install-extension aaron-bond.better-comments
+Code.exee --install-extension aaron-bond.better-comments
+Code.exe --install-extension aaron-bond.better-comments
+code --install-extension aaron-bond.better-comments
+Code.exee --install-extension aaron-bond.better-comments
+Code.exe --install-extension aaron-bond.better-comments
+pip install py-librus-api
+c
+pip
+pip instal
+pip install
+c
+pip
+pip instal
+pip install
+git init
+touch .gitignore
+nano .git
+nano .gitignore 
+git status
+git add .
+git commit -m "init"
+git remote add  origin https://github.com/DaW888/librus_api.git
+git push -u origin master
+ls
+python main.py 
+nano .git
+nano .gitignore 
+git status
+git add .
+git commit -m "init"
+git remote add  origin https://github.com/DaW888/librus_api.git
+git push -u origin master
+python3 main.py 
+pip install --user py-librus-api
+python -m pip install -U pip
+desk 
+c
+python get-pip.py 
+pip install py-librus-api
+d
+ls
+python main.py 
+python main.py 
+nano main.py 
+pycharm
+e .
+d
+e.
+ls
+python main.py 
+pycharm
+e .
+d
+e.
+python main.py 
+yarn -v
+cd /
+cd "Programy\
+cd Yarn\
+ls
+yarn self-update
+curl --compressed -o- -L https://yarnpkg.com/install.sh | bash
+yarn upgrade
+yarn updat
+yarn update
+yarn -v
+yarn self-update
+npx create-react-app l04_routing
+curl
+npm install expo-cli -g
+ls
+expo init app01
+expo init simpleCalculator
+cd simpleCalculator\
+webstrom
+<WebStorm?
+<WebStorm>
+<WebStorm?
+<WebStorm>
+WebStorm
+WebStorm .
+Webstorm
+git status
+git log
+git add .
+git comit -m "init"
+git commit -m "init"
+git remote add origin https://github.com/DaW888/simpleCalculator.git
+git push -u origin master
+yarn
+yarn start
+expo init
+expo init
+expo init registerApp1
+expo init
+expo init
+expo init registerApp1
+curl -X PUT http://localhost:5984/dw1
+curl -X POST http://127.0.0.1:5984/dw1 -H "Content-Type:application/json" -d "{\"Gatunek\":\"Sportowe\",\"Nazwa\":\"FIFA 19\",\"Producent\":\"EA\",\"Cena\":195,\"_id\":\"fifa\"}"
+curl -X POST http://localhost:5984/dw -H "Content-Type:application/json" -d "{\"Gatunek\":\"Symulacje\",\"Nazwa\":\"The Sims 4\",\"Producent\":\"EA\",\"Cena\":109,\"_id\":\"sims\"}"
+curl -X POST http://localhost:5984/dw1 -H "Content-Type:application/json" -d "{\"Gatunek\":\"Symulacje\",\"Nazwa\":\"The Sims 4\",\"Producent\":\"EA\",\"Cena\":109,\"_id\":\"sims\"}"
+curl -X POST http://localhost:5984/dw1 -H "Content-Type:application/json" -d "{\"Gatunek\":\"FPP\",\"Nazwa\":\"Call Of Duty: Black Ops 3\",\"Producent\":\"CD projekt\",\"Cena\":99,\"_id\":\"call\"}"
+curl -X POST http://localhost:5984/dw1 -H "Content-Type:application/json" -d "{\"Gatunek\":\"FPP\",\"Nazwa\":\"Hard Reset\",\"Producent\":\"CD projekt\",\"Cena\":30,\"_id\":\"hard\"}" 
+curl -X POST http://localhost:5984/dw1 -H "Content-Type:application/json" -d "{\"Gatunek\":\"Symulacje\",\"Nazwa\":\"FARMING SIMULATOR\",\"Producent\":\"CD projekt\",\"Cena\":79,\"_id\":\"farming\"}" 
+curl -X POST http://localhost:5984/dw1 -H "Content-Type:application/json" -d "{\"Gatunek\":\"Akcja\",\"Nazwa\":\"Metro Exodus\",\"Producent\":\"Techland\",\"Cena\":189,\"_id\":\"metro\"}"
+curl -X GET http://localhost:5984/dw1/_all_docs
+curl -X PUT http://localhost:5984/dw/sims -H "Content-Type:application/json" -d "{\"Gatunek\":\"Symulacje\",\"Nazwa\":\"The Sims 4\",\"Producent\":\"EA\",\"Cena\":109,\"uwagi\":\"12 lat\",\"_rev\":\"1-9d206ff33c2de351e00d215bf9d56a7f\"}"
+curl -X PUT http://localhost:5984/dw1/sims -H "Content-Type:application/json" -d "{\"Gatunek\":\"Symulacje\",\"Nazwa\":\"The Sims 4\",\"Producent\":\"EA\",\"Cena\":109,\"uwagi\":\"12 lat\",\"_rev\":\"1-9d206ff33c2de351e00d215bf9d56a7f\"}"
+curl -X GET http://localhost:5984/dw/sims/?revs_info=true
+curl -X GET http://localhost:5984/dw1/sims/?revs_info=true
+curl -X GET http://localhost/dw1/sims/?rev=1-9d206ff33c2de351e00d215bf9d56a7f
+curl -X GET http://localhost:5984/dw/sims/?rev=1-9d206ff33c2de351e00d215bf9d56a7f
+curl -X GET http://localhost:5984/dw1/sims/?rev=1-9d206ff33c2de351e00d215bf9d56a7f
+curl -X PUT http://localhost:5984/dw2
+curl -X POST http://localhost:5984/dw2 -H "Content-Type:application/json" id "{\"Producent\":\"Samsung\", \"Modelwewe
+curl -X POST http://localhost:5984/dw2 -H "Content-Type: application/json" -d "{\"Producent\":\"Samsung\", \"Model\":\"Galaxy J3\", \"RAM\":\"2GB\", \"Ekran\":\"5cali\", \"Dual_SIM\":\"Tak\", \"Cena\":629, \"_id\": \"J3\"}"
+curl -X POST http://localhost:5984/dw2 -H "Content-Type: application/json" -d "{\"Producent\":\"Samsung\", \"Model\":\"Galaxy S7\", \"RAM\":\"4GB\", \"Ekran\":\"5cali\", \"Dual_SIM\":\"Nie\", \"Cena\":1398, \"_id\": \"S7\"}"
+curl -X POST http://localhost:5984/dw2 -H "Content-Type: application/json" -d "{\"Producent\":\"Samsung\", \"Model\":\"Galaxy J3\", \"RAM\":\"2GB\", \"Ekran\":\"5cali\", \"Dual_SIM\":\"Tak\", \"Cena\":629, \"_id\": \"J3\"}" 
+curl -X GET http://localhost:5984/_all_dbs
+curl -X GET http://localhost:5984/dw2
+curl -X PUT http://localhost:5984/dw2 -H "Content-Type: application/json" -d "{\"Producent\":\"Samsung\", \"Model\":\"Galaxy J3\", \"RAM\":\"2GB\", \"Ekran\":\"5cali\", \"Dual_SIM\":\"Tak\", \"Cena\":629, \"_id\": \"J3\", \"kolor\":\"srebrny\", \"_rev\":\"3-cb68dcc5a993a40406761c9491084afc\"}"
+curl -X GET http://localhost:5984/dw2/_all_docs
+expo init Samotnik
+cD Sa
+cd Samotnik\
+ls
+curl -X POST http://localhost:5984/dw2 -H "Content-Type: application/json" -d "{\"Producent\":\"Samsung\", \"Model\":\"Galaxy J3\", \"RAM\":\"2GB\", \"Ekran\":\"5cali\", \"Dual_SIM\":\"Tak\", \"Cena\":629, \"_id\": \"J3\"}"
+curl -X POST http://localhost:5984/dw2 -H "Content-Type: application/json" -d "{\"Producent\":\"Samsung\", \"Model\":\"Galaxy S7\", \"RAM\":\"4GB\", \"Ekran\":\"5cali\", \"Dual_SIM\":\"Nie\", \"Cena\":1398, \"_id\": \"S7\"}"
+curl -X POST http://localhost:5984/dw2 -H "Content-Type: application/json" -d "{\"Producent\":\"Samsung\", \"Model\":\"Galaxy J3\", \"RAM\":\"2GB\", \"Ekran\":\"5cali\", \"Dual_SIM\":\"Tak\", \"Cena\":629, \"_id\": \"J3\"}" 
+curl -X GET http://localhost:5984/_all_dbs
+curl -X GET http://localhost:5984/dw2
+curl -X PUT http://localhost:5984/dw2 -H "Content-Type: application/json" -d "{\"Producent\":\"Samsung\", \"Model\":\"Galaxy J3\", \"RAM\":\"2GB\", \"Ekran\":\"5cali\", \"Dual_SIM\":\"Tak\", \"Cena\":629, \"_id\": \"J3\", \"kolor\":\"srebrny\", \"_rev\":\"3-cb68dcc5a993a40406761c9491084afc\"}"
+curl -X GET http://localhost:5984/dw2/_all_docs
+expo init Samotnik
+cD Sa
+cd Samotnik\
+git add .
+git commit -m "init"
+glog
+git remote add origin https://github.com/DaW888/samotnik.git
+ls
+git pull origin master
+git log
+git push origin master
+git add origin master
+git status
+git push -u origin master
+git pull
+cd server\
+node server.js 
+yarn start
+ls
+ls -a
+rm -rf .git
+git status
+git status
+git clone https://dawid808@dev.azure.com/dawid808/SklepWB/_git/SklepWB
+cd Samotnik\
+glog
+git remote add origin https://github.com/DaW888/samotnik.git
+git pull origin master
+git push origin master
+git add origin master
+git pull
+cd server\
+node server.js 
+yarn start
+touch .gitignore
+nano .git
+nano .gitignore 
+ls -a
+cd SklepWB\
+cd ..
+git add .
+gs
+git commit -m "init"
+git log
+git remote add origin https://github.com/DaW888/sklepWB.git
+git push -u origin master
+ls
+git status
+git init
+git status
+cd SklepWB\
+cd ..
+gs
+git commit -m "init"
+git remote add origin https://github.com/DaW888/sklepWB.git
+git push -u origin master
+git status
+git log
+ls -l
+ls -a
+nano .gitignore 
+nano .gitattributes 
+rm -rf .git/
+git add .
+git init
+ls
+git status
+ls 0l
+ls -l
+ls -la
+ls -lah
+rm -rf .vs\
+rm -rf .vs\
+ls
+git add .
+git status
+git commit -m "init"
+git remote add origin https://github.com/DaW888/sklepWB.git
+git push -u origin master
+git push -u origin master
+npm install -g expo-cli
+expo init geoApp
+cd geoApp\
+yarn add react-native-maps
+yarn add react-native-maps
+git init
+ls
+git add .
+git commit -m "init, selecting not working"
+git status
+git log
+git remote add origin https://github.com/DaW888/geoApp.git
+git push -u origin master
+git remote add origin https://github.com/DaW888/geoApp.git
+git push -u origin master
+desk
+c
+cd sklepWB\
+ls
+cd SklepWB\
+git log
+gl
+git add .
+git status
+git commit -m "style of index"
+git push
+expo init cameraApp\
+expo init firebaseApp\
+expo init firebaseApp\
+git checkout .
+git status
+git log
+git pull
+git checkout .
+git status
+ls
+git status
+git add .
+git commit -m "elements created dynamicly from database (without photos)"
+git push
+git push
+gi status
+git status
+git status
+git add .
+git commit -m "create login page (just style)"
+git push
+yarn /help
+yarn --version
+choco
+scoop
+scoop
+git checkout
+git checkout .
+git statu
+git status
+git pul
+git pull
+git status
+git status
+git lgo
+git lgog
+git log
+git checkout
+git statu
+git status
+git pul
+git status
+git lgo
+git lgog
+git log
+git remove SklepWB\Item.aspx
+git pull
+git checkout 
+git checkout .
+git add .
+git status
+git commit -m "add OneItem Page"
+git push
+expo init cameraApp
+expo init alarmApp
+cd alarmApp\
+expo init alarmApp
+cd alarmApp\
+yarn
+git status
+git pull
+git loog
+git loh
+git log
+ls
+git loh
+ls
+git checkout .
+git pulll
+git pull
+git status
+git lo
+git log
+git lo
+git log
+git checkout 
+git checkout .
+git status
+git add .
+git commit -m "text in item bt and radius of Item.aspx"
+git push
+git status
+git add .
+git commit -m "add Cart site"
+git push
+git commit -m "add Cart site"
+git push
+git checkout .
+git log
+git status
+git pull
+git pull
+git push
+git commit -m "add Cart site"
+git log
+git pull
+git checkout .
+git pull
+git add .
+git status
+git commit -m "addItem.asp and Delivery.asp"
+git push
+git status
+git add .
+git commit -m "bt Delete element, logout"
+git push
+git log
+ls
+git status
+git log
+git pull
+git status
+git status
+git add .
+git commit -m "poprawa nazw i przekierowan"
+git push
+git status
+git log
+git log
+git status
+git log
+git pull
+git clone https://github.com/DaW888/ShopWb
+git clone https://github.com/DaW888/ShopWB
+cd nowySklep\
+git clone https://github.com/DaW888/sklepWB
+cd sh
+sklepWB\
+cd sklepWB\
+ls
+git status
+git add .
+git commit -m "addItem in Contact for Admin"
+git push
+git status
+git add .
+git commit -m "contact site working"
+git push
+git commit -m "addItem in Contact for Admin"
+git status
+git status .
+git add .
+git commit -m "add dababase and removeUserIcon"
+git push
+git status
+git add .
+git commit -m "add remove user asp"
+git push
+cuerl
+curl
+crul --help
+curl --help
+desk
+c
+curl -o http://dwajda.com
+curl -o asd.html http://dwajda.com
+c
+curl -o http://dwajda.com
+curl -o asd.html http://dwajda.com
+git checkout .
+git pull
+git log
+q
+git status
+webstrom
+<webstorm64>
+<webstorm64> .
+webstrom
+<webstorm64>
+<webstorm64> .
+git init
+touch .gitignore
+nano .gitignore 
+git add .
+git status
+git commit -m "shortestWay works"
+git remote add origin https://github.com/DaW888/kulki.git
+git push -u origin master
+<webstorm64>
+<webstorm64> .
+git init
+touch .gitignore
+nano .gitignore 
+git commit -m "shortestWay works"
+git remote add origin https://github.com/DaW888/kulki.git
+git push -u origin master
+git stats
+q
+git add .
+git commit -m "working on balls"
+git push
+git log
+git branch
+git push --set-upstream balls balls
+git push balls
+git push balls balls
+git status
+git push -u balls balls
+git push -u origin balls
+git checkout master
+git checkout balls
+pip install pyprimesieve
+pip install termcolor
+pip remove termcolor
+pip uninstall termcolor
+git clone https://github.com/flutter/flutter.git
+flutter doctor
+git remote add origin https://github.com/DaW888/kulki.git
+git stats
+q
+git commit -m "working on balls"
+git push
+git branch
+git push --set-upstream balls balls
+git push balls
+git push balls balls
+git push -u balls balls
+git push -u origin balls
+git checkout master
+git checkout balls
+pip install pyprimesieve
+pip install termcolor
+pip remove termcolor
+pip uninstall termcolor
+git clone https://github.com/flutter/flutter.git
+flutter doctor
+git init
+nano .gitignore
+code .gitignore 
+git rm
+git rm .
+git reset head
+git satus
+cd PyTricks\
+ls
+git log
+git remote
+git remote origin
+git remote origin -v
+git remote -v
+cd ..
+nano .gitignore 
+git reset .
+git add .
+git commit -m "init"
+git status
+git remote add origin https://github.com/DaW888/matura_python.git
+git push -u origin master
+q
+git commit -m "working on balls"
+git branch
+git push --set-upstream balls balls
+git push balls
+git push balls balls
+git push -u balls balls
+git push -u origin balls
+git checkout master
+git checkout balls
+pip install pyprimesieve
+pip install termcolor
+pip remove termcolor
+pip uninstall termcolor
+git clone https://github.com/flutter/flutter.git
+flutter doctor
+git init
+nano .gitignore
+code .gitignore 
+git rm
+git rm .
+git reset head
+git satus
+cd PyTricks\
+ls
+git log
+git remote
+git remote origin
+git remote origin -v
+git remote -v
+cd ..
+git commit -m "init"
+git remote add origin https://github.com/DaW888/matura_python.git
+git push -u origin master
+git checkout. 
+git checkout ..
+git checkout .
+git 
+nano .gitignore 
+git reset .
+git add .
+git status
+git commit -m "init2"
+git push
+ls
+rm -r Assassins.Creed.Syndicate-CODEX\
+rm -rf Assassins.Creed.Syndicate-CODEX\
+git status
+rm -rf Assassins.Creed.Syndicate-CODEX\
+git add .
+git status
+git commit -m "matura 2017 - zad6, zad5"
+git push
+git lohg
+git loh
+git lo
+git log
+git add .
+git status
+git commit -m "matura 2017 - zad4"
+git push
